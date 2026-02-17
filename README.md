@@ -9,7 +9,7 @@ Built with LangGraph, LiveKit, FastAPI, and Next.js.
 - Python 3.10+
 - Node.js 20+
 - [OpenAI API key](https://platform.openai.com/api-keys)
-- [LiveKit Cloud account](https://cloud.livekit.io/) (free tier works)
+- [LiveKit Cloud account](https://cloud.livekit.io/) 
 
 ## Project Structure
 
